@@ -1,7 +1,6 @@
 name: "CodeQL Scan"
 
-on:
-  workflow_disptach:
+on: workflow_dispatch
 
 jobs:
   analyze:
